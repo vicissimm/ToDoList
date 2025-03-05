@@ -1,0 +1,16 @@
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.AssemblyReference.cache
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.AssemblyInfoInputs.cache
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.AssemblyInfo.cs
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.sourcelink.json
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\bin\Debug\net8.0\ToDo.Application.deps.json
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\bin\Debug\net8.0\ToDo.Application.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\bin\Debug\net8.0\ToDo.Application.pdb
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\bin\Debug\net8.0\ToDo.Domain.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\bin\Debug\net8.0\ToDo.Domain.pdb
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.App.AD959D57.Up2Date
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\refint\ToDo.Application.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ToDo.Application.pdb
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Application\obj\Debug\net8.0\ref\ToDo.Application.dll

@@ -1,0 +1,13 @@
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.deps.json
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.pdb
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.csproj.AssemblyReference.cache
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfo.cs
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.sourcelink.json
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\refint\ToDo.Domain.dll
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.pdb
+C:\Users\Armen\Desktop\ToDoWebApplication\backend\src\ToDo.Domain\obj\Debug\net8.0\ref\ToDo.Domain.dll
